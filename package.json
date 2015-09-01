@@ -1,0 +1,21 @@
+{
+  "name": "avro-js",
+  "version": "0.0.1",
+  "description": "Apache Avro For JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fatelei/avro-js.git"
+  },
+  "keywords": [
+    "avro"
+  ],
+  "author": "fatelei@gmail.com",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/fatelei/avro-js/issues"
+  }
+}
